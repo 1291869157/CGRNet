@@ -11,7 +11,7 @@ Current salient object detection (SOD) methods rely heavily on accurate pixel-le
 
 ## Overview
 <div align="center">
-  <img src="https://github.com/1291869157/BENet/blob/main/fig11.png" width="90%">
+  <img src="https://github.com/1291869157/CGRNet/blob/master/Overall.jpg" width="90%">
 </div>
 
 # Our Results:
