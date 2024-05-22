@@ -29,7 +29,7 @@ The CGRNet comprises three main components: graph inference network (GIN), edge 
 
 We also provide the PR curve as below:
 <div align="center">
-  <img src="https://github.com/1291869157/CGRNet/blob/master/fig3.jpg" width="90%">
+  <img src="https://github.com/1291869157/CGRNet/blob/master/PR.png" width="90%">
 </div>
 
 We provide saliency maps of our model on five benchmark saliency dataset (DUT, DUTS, ECSSD, HKU-IS, PASCAL-S) as below:
