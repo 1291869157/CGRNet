@@ -2,12 +2,12 @@
 Scribble-based Complementary Graph Reasoning Network for Weakly Supervised Salient Object Detection
 
 ## Trained Model
-Please download the trained model and put it in "models"
-
+Please download the trained model and put it in "models":<br>
 Link: https://pan.baidu.com/s/1gKQS8Eua3M5kAs_XrMUQUQ,  &nbsp;  code: 8nx6 
+<br>
+<br>
 
-Please download the initial model and put it in "model"
-
+Please download the initial model and put it in "model":<br>
 Link: https://pan.baidu.com/s/1Z_etcKySifat0hgYDUHLjA,  &nbsp;  code: xusv 
 
 ## Introduction
