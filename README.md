@@ -1,15 +1,12 @@
-# CGRNet (CVIU2024)
+## CGRNet (CVIU2024)
 Scribble-based Complementary Graph Reasoning Network for Weakly Supervised Salient Object Detection
-![alt text](./overview.png)
-
-# Setup
-Install Pytorch
 
 # Trained Model
-
 Please download the trained model and put it in "models"
 
-https://drive.google.com/file/d/19mco_WjMAK7OKDMklxTrzot7wWhfSsr1/view?usp=sharing
+Link: https://pan.baidu.com/s/1gKQS8Eua3M5kAs_XrMUQUQ  Code: 8nx6 
+
+
 
 # Train Model
 
