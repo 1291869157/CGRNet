@@ -14,8 +14,13 @@ Current salient object detection (SOD) methods rely heavily on accurate pixel-le
   <img src="https://github.com/1291869157/CGRNet/blob/master/Overall.jpg" width="90%">
 </div>
 
-# Our Results:
-![alt text](./results.png)
+The CGRNet comprises three main components: graph inference network (GIN), edge oriented module (EOM) and multi-guidance saliency prediction module. Notably, our approach goes beyond the traditional method of solely extracting edge priors and salient features from the image to improve model performance. Instead, we use graph reasoning to capture long-range dependencies between pixels, enabling the network to transfer the information learned from scribble regions to distant unlabeled regions. This helps us recover the overall structure of salient objects from sparse scribble annotations.
+
+## Our Results:
+#### Visual Comparison
+<div align="center">
+  <img src="https://github.com/1291869157/CGRNet/blob/master/Overall.jpg" width="90%">
+</div>
 
 ![alt text](./E_F_measure.png)
 
