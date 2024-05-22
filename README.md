@@ -50,6 +50,6 @@ Please cite our paper if necessary:
 }
 ```
 
-# Contact
+## Contact
 Please drop me an email for further problems or discussion: 1291869157@qq.com
 
