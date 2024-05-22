@@ -1,6 +1,5 @@
-# Scribble_Saliency (CVPR2020)
-Weakly-Supervised Salient Object Detection via Scribble Annotations
-
+# CGRNet (CVIU2024)
+Scribble-based Complementary Graph Reasoning Network for Weakly Supervised Salient Object Detection
 ![alt text](./overview.png)
 
 # Setup
